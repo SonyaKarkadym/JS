@@ -1,0 +1,36 @@
+/* 
+ #back{
+    background-image: url(back.jpg);
+}
+
+#arrowRight{
+    border: 3px solid black;
+    border-radius: 50%;
+    height: 65px;
+    width: 65px;
+    background-color:white;
+    background-image: url(1.png);
+    background-size: cover;
+    
+}
+
+#arrowLeft{
+    border: 3px solid black;
+    border-radius: 50%;
+    height: 65px;
+    width: 65px;
+    background-color:white;
+    background-image: url(2.png);
+    background-size: cover;
+}
+
+#photo{
+    padding: 50px;
+}
+
+#gallary{
+display:flex;
+justify-content: space-between;
+align-items: center;
+margin:  0 auto;
+}  */
